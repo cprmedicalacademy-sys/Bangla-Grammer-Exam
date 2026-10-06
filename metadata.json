@@ -1,0 +1,6 @@
+{
+  "name": "CPR Medical Academy - Special BCS Exam Portal",
+  "description": "Online MCQ Examination Portal for CPR Medical Academy Special BCS Crystal Batch covering Bengali Grammar with real-time timer, negative marking, and detailed answer sheet reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
